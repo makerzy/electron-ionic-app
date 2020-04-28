@@ -1,0 +1,7 @@
+{
+  "name": "electronApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
